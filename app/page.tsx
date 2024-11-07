@@ -1,7 +1,6 @@
 import { Outfit } from "next/font/google";
 import Hero from "./component/Hero";
 import CorrectionShowcase from "./component/CorrectionShowcase";
-import BadgeList from "./component/BadgeList";
 import Footer from "./component/Footer";
 import Header from "./component/Header";
 
