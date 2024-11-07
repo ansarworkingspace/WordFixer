@@ -1,30 +1,3 @@
-// import React from 'react';
-
-// const CorrectionShowcase = () => {
-//   return (
-//     <div className="flex items-center justify-center ">
-//       {/* Incorrect Sentence */}
-//       <div className="bg-red-100 text-red-800 p-4 rounded-md shadow-md w-1/3 text-center">
-//         <p className="text-sm">She go to the store yesterday.</p>
-//       </div>
-
-//       {/* Arrow */}
-//       <div className="mx-4 text-3xl">
-//         <span className="relative flex items-center">
-
-//           <span className="font-bold text-white">&rarr;</span>
-//         </span>
-//       </div>
-
-//       {/* Correct Sentence */}
-//       <div className="bg-green-100 text-green-800 p-4 rounded-md shadow-md w-1/3 text-center">
-//         <p className="text-sm">She went to the store yesterday.</p>
-//       </div>
-//     </div>
-//   );
-// };
-
-// export default CorrectionShowcase;
 
 
 
