@@ -18,7 +18,7 @@ const Hero = () => {
       
       {/* Call to action button */}
       <a 
-        href="#"
+        href="/tool"
         className="bg-purple-500 text-white mt-10 px-6 py-3 rounded-md hover:bg-purple-600 transition duration-300"
       >
         Go to Correct
