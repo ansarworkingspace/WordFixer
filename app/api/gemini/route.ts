@@ -9,7 +9,7 @@ export async function POST(req: NextRequest) {
   const { paragraph, tone } = await req.json();
 
   // Ensure the API key is available in environment variables
-  const apiKey = process.env.NEXT_PUBLIC_API_KEY;
+  const apiKey = process.env.GEMINI_API_KEY;
   if (!apiKey) {
     return NextResponse.json(
       { error: 'API key is missing in the environment variables.' },
