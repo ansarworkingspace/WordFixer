@@ -3,7 +3,7 @@ import { FaLinkedin, FaGithub } from "react-icons/fa";
 
 const Footer: React.FC = () => {
   return (
-    <footer className="text-white mt-10 p-4 gap-3 flex flex-col items-center">
+    <footer className="text-white  mt-10 p-4 gap-3 flex flex-col items-center">
       <div className="flex space-x-4">
         <a
           href="https://www.linkedin.com/in/muhammedansar/"
@@ -23,7 +23,7 @@ const Footer: React.FC = () => {
         </a>
       </div>
 
-      <div className="text-sm mb-2">
+      <div className="text-xs md:text-sm mb-2">
         &copy; {new Date().getFullYear()} Developed by Muhammed Ansar
       </div>
     </footer>

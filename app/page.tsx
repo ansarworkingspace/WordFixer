@@ -12,7 +12,7 @@ export default function Home() {
     <>
       <Header />
       <div
-        className={`text-white relative mt-16 overflow-hidden flex flex-col items-center  gap-5 ${outfit.className}`}
+        className={`text-white relative mt-2 overflow-hidden flex flex-col items-center  gap-5 ${outfit.className}`}
       >
         <CorrectionShowcase />
         <Hero />
